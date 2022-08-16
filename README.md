@@ -28,5 +28,6 @@
 </p>
 <br><br/>
 
- ## PROCEEDINGS OF HCI KOREA 2022 학술대회 발표 논문집 - 음악 커버 영상 제작을 위한 애플리케이션 설계 및 개발
+ ## PROCEEDINGS OF HCI KOREA 2022 학술대회 발표 논문집
+ ### 음악 커버 영상 제작을 위한 애플리케이션 설계 및 개발 (Design and development of applications for music cover video production)
 
