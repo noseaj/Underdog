@@ -1,16 +1,12 @@
 # RAVER
-- ### 2021-2 광운대학교 참빛설계 
-- #### Team.UNDERDOG (권준혁, 소현수, 장석원, 손재성)
-- #### Application for making and editing music cover video
-- #### AndroidStudio, FFMPEG
-<br><br/>
-## Logo
-<p align="center"><img width="500" src="https://user-images.githubusercontent.com/63574571/144405083-c2c1e946-e3d1-4405-a7de-c6d28ad69126.png">
+* 2021-2 광운대학교 참빛설계 프로젝트 : Team UNDERDOG
 
-## WireFrame
-<p align="center"><img width="600" alt="스크린샷 2021-07-14 오전 12 15 39" src="https://user-images.githubusercontent.com/63574571/134475713-76d51139-9921-43e2-9c12-bd8f3142c177.png"> 
-<p align="center">  - Adobe XD로 제작
-<br><br/>
+## Introduction
+[음악 커버 영상 제작을 위한 애플리케이션 설계 및 개발](https://github.com/noseaj/Underdog/blob/main/%E1%84%8B%E1%85%B3%E1%86%B7%E1%84%8B%E1%85%A1%E1%86%A8%20%E1%84%8F%E1%85%A5%E1%84%87%E1%85%A5%20%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC%20%E1%84%8C%E1%85%A6%E1%84%8C%E1%85%A1%E1%86%A8%E1%84%8B%E1%85%B3%E1%86%AF%20%E1%84%8B%E1%85%B1%E1%84%92%E1%85%A1%E1%86%AB%20%E1%84%8B%E1%85%A2%E1%84%91%E1%85%B3%E1%86%AF%E1%84%85%E1%85%B5%E1%84%8F%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%89%E1%85%A7%E1%86%AB%20%E1%84%89%E1%85%A5%E1%86%AF%E1%84%80%E1%85%A8%20%E1%84%86%E1%85%B5%E1%86%BE%20%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF.pdf)  
+
+# Application Information
+## Logo
+<p align="center"><img width="300" src="https://user-images.githubusercontent.com/63574571/144405083-c2c1e946-e3d1-4405-a7de-c6d28ad69126.png">
   
  ## APP DESIGN
 <p float="middle">
@@ -25,9 +21,20 @@
 <img width="24%" src="https://user-images.githubusercontent.com/63574571/144405353-ec61ff91-f23b-446e-bf8c-cedd7c1e426f.png">
 <img width="24%" src="https://user-images.githubusercontent.com/63574571/144405359-96587ab7-6d39-4036-867f-292d0404c38c.png">
 <img width="24%" src="https://user-images.githubusercontent.com/63574571/144405363-b37cbd0c-8b04-46db-b82b-e8654558a778.png">
-</p>
-<br><br/>
+</p>  
 
- ## PROCEEDINGS OF HCI KOREA 2022 학술대회 발표 논문집
- - 음악 커버 영상 제작을 위한 애플리케이션 설계 및 개발 (Design and development of applications for music cover video production)
+## 사용 방법  
+음악 선택 → 카메라 필터 선택 → 영상 촬영 → 비디오 Trim → 배경 볼륨 조절 → 프리셋 선택 → 노브를 통한 믹싱 → 저장 및 공유 
+
+## 오디오 프리셋
+* Bright Vocal Preset : 밝고 선명한 사운드
+* Compressed Vocal Preset : 압축된 강한 사운드
+* Warm Vocal Preset : 따뜻하고 부드러운 사운드
+* Classic Vocal Preset : 차갑고 명료한 사운드
+* Vintage Vocal Preset : 빈티지 특유의 따스한 사운드
+
+## 시스템 구성
+AndroidStudio, FFMPEG, GPUVideo-android
+
+
 
